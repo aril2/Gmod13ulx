@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Nayruden/Ulysses.git/!svn/ver/35/trunk/ulx/lua/ulx/modules
+END
+xgui_server.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/xgui_server.lua
+END
+slots.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/slots.lua
+END
+uteam.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/uteam.lua
+END
+votemap.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/votemap.lua
+END

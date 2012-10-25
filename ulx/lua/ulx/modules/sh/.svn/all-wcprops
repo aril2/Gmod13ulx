@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/sh
+END
+chat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/sh/chat.lua
+END
+rcon.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/sh/rcon.lua
+END
+menus.lua
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/sh/menus.lua
+END
+userhelp.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/sh/userhelp.lua
+END
+fun.lua
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/sh/fun.lua
+END
+util.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/sh/util.lua
+END
+vote.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/sh/vote.lua
+END
+teleport.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/sh/teleport.lua
+END
+user.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/modules/sh/user.lua
+END

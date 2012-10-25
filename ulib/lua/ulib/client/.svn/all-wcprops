@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulib/lua/ulib/client
+END
+commands.lua
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulib/lua/ulib/client/commands.lua
+END
+cl_util.lua
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulib/lua/ulib/client/cl_util.lua
+END
+draw.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulib/lua/ulib/client/draw.lua
+END

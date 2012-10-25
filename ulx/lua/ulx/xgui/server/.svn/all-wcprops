@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/xgui/server
+END
+sv_sandbox.lua
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/xgui/server/sv_sandbox.lua
+END
+sv_groups.lua
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/xgui/server/sv_groups.lua
+END
+sv_maps.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/xgui/server/sv_maps.lua
+END
+sv_settings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/xgui/server/sv_settings.lua
+END
+sv_bans.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/xgui/server/sv_bans.lua
+END

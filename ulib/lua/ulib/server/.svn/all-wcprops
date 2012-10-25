@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Nayruden/Ulysses.git/!svn/ver/36/trunk/ulib/lua/ulib/server
+END
+phys.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulib/lua/ulib/server/phys.lua
+END
+ucl.lua
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulib/lua/ulib/server/ucl.lua
+END
+entity_ext.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulib/lua/ulib/server/entity_ext.lua
+END
+player.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Nayruden/Ulysses.git/!svn/ver/36/trunk/ulib/lua/ulib/server/player.lua
+END
+player_ext.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulib/lua/ulib/server/player_ext.lua
+END
+util.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulib/lua/ulib/server/util.lua
+END
+concommand.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulib/lua/ulib/server/concommand.lua
+END

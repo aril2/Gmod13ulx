@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/Nayruden/Ulysses.git/!svn/ver/37/trunk/ulx/lua/ulx
+END
+cl_init.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/cl_init.lua
+END
+log.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/log.lua
+END
+init.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/init.lua
+END
+cl_lib.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Nayruden/Ulysses.git/!svn/ver/35/trunk/ulx/lua/ulx/cl_lib.lua
+END
+sh_base.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/sh_base.lua
+END
+end.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/end.lua
+END
+lib.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/lib.lua
+END
+sh_defines.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Nayruden/Ulysses.git/!svn/ver/37/trunk/ulx/lua/ulx/sh_defines.lua
+END
+base.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Nayruden/Ulysses.git/!svn/ver/34/trunk/ulx/lua/ulx/base.lua
+END
